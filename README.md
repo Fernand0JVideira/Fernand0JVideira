@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fernand0JVideira
+- 👀 I’m interested in Game/Web Development
+- 🌱 I’m currently studying Programming at Polytechnic of Leiria
+- 📫 You can contact me through Linkedin : linkedin.com/in/fernando-videira-info
